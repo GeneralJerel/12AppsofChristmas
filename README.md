@@ -1,6 +1,6 @@
-# 12AppsofChristmas
+# 🤶 12 Apps of Christmas
 
-I want to push how much I can use AI to create AI Applications this Christmas of 2024. 
+I want to push how much I can use AI to create AI Applications this Christmas of 2024
 
 These are my current ideas:
 
